@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="/static/css/global.css" />
+    <link rel="stylesheet" href="/static/css/index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    />
+ 
+  </head>
+  <body>
+    <div class="input-data">
+      <img class="image-1-icon" alt="" src="/static/img/image-1@2x.png" />
+
+      <div class="input-data-parent">
+        <b class="input-data1">Input Data</b>
+        <b class="about-us">About us</b>
+        <b class="home">Home</b>
+        <div class="neumorphism-button">
+          <div class="knob-base">
+            <div class="background"></div>
+          </div>
+          <div class="knob-elevation">
+            <div class="icon">
+              <img class="icon-child" alt="" src="/static/img/group-1.svg" />
+            </div>
+          </div>
+        </div>
+        <img class="ss-1-icon" alt="" src="/static/img/ss-1@2x.png" />
+        <img class="group-child" alt="" src="/static/img/line-88.svg" />
+        <b class="result">Result</b>
+      </div>
+      <div class="inputdataTop">
+        <b class="input-data2">Input Data</b>
+      </div>
+
+      <div class="we-are-a">
+        <form method="post" action="/input">
+          <label for="raised_hands" class="input-label">Percentage :</label>
+          <input type="number" name="raised_hands" id="raised_hands" class="input">
+          <br><br>
+          <label for="visited_resources" class="input-label">Homework :</label>
+          <input type="number" name="visited_resources" id="visited_resources" class="input">
+          <br><br>
+          <label for="announcement_view" class="input-label">Participation :</label>
+          <input type="number" name="announcement_view" id="announcement_view" class="input">
+          <br><br>
+          <label for="discussion" class="input-label">Activeness in Class:</label>
+          <input type="number" name="discussion" id="discussion" class="input">
+          <br><br>
+          <label for="absent" class="input-label">Student Absent :</label>
+          <input type="number" name="absent" id="absent" class="input">
+          <br><br>
+        <input type="submit" value="Submit" class="submit">
+        </form>
+      </div>
+      <img class="vector-icon" alt="" src="/static/img/vector copy.svg" />
+      <img class="imageinput-icon" alt="" src="/static/img/imageinput@2x.png" />   
+    </div>
+    <script>
+      var contactText = document.getElementById("submit");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          window.location.href = "./result.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,40 @@
+<svg width="188" height="186" viewBox="0 0 188 186" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ddif_422_4134)">
+<ellipse cx="94" cy="93" rx="28" ry="27" fill="url(#paint0_linear_422_4134)"/>
+<ellipse cx="94" cy="93" rx="28" ry="27" fill="white" fill-opacity="0.8"/>
+</g>
+<g clip-path="url(#clip0_422_4134)">
+<path d="M86.3003 93H101.7" stroke="#141239" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95.4004 86.9258L101.7 93.0008L95.4004 99.0758" stroke="#141239" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_ddif_422_4134" x="0.0701523" y="0.0701523" width="187.86" height="185.86" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="32.9649"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_422_4134"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="8.51516"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_422_4134" result="effect2_dropShadow_422_4134"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_422_4134" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="3.29649"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect3_innerShadow_422_4134"/>
+<feGaussianBlur stdDeviation="0.608226" result="effect4_foregroundBlur_422_4134"/>
+</filter>
+<linearGradient id="paint0_linear_422_4134" x1="94" y1="66" x2="94" y2="120" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_422_4134">
+<rect width="22.4" height="21.6" fill="white" transform="translate(82.8003 82.1992)"/>
+</clipPath>
+</defs>
+</svg>

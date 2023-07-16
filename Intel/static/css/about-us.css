@@ -1,0 +1,204 @@
+.image-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 960px;
+  object-fit: cover;
+  display: none;
+}
+.about-us2,
+.home1,
+.input-data3,
+.we-are-a1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.we-are-a1 {
+  top: 637px;
+  left: 251px;
+  font-size: var(--font-size-xl);
+  width: 644px;
+  height: 194px;
+  mix-blend-mode: normal;
+}
+.about-us2,
+.home1,
+.input-data3 {
+  top: 50px;
+  left: 1396px;
+  width: 117.16px;
+  height: 55.51px;
+}
+.about-us2,
+.home1 {
+  left: 1130px;
+}
+.home1 {
+  left: 1000px;
+}
+.background1,
+.knob-base1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.background1 {
+  border-radius: var(--br-13xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: -1px -1px 0#fff inset, -2px -2px 2px #b8cce0 inset,
+    -1px -1px 0#fff, -2px -2px 2px #b8cce0;
+  display: none;
+}
+.knob-base1 {
+  margin: 0 !important;
+  z-index: 0;
+}
+.icon-item {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.icon1,
+.knob-elevation1 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.icon1 {
+  display: none;
+}
+.knob-elevation1 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px #c9d9e8, -8px -8px 16px #fff;
+  display: flex;
+  padding: var(--padding-5xl);
+  z-index: 1;
+}
+.neumorphism-button1 {
+  position: absolute;
+  top: 28px;
+  left: 950px;
+  width: 620px;
+  height: 112px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-5xl) var(--padding-5xl)
+    var(--padding-3xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  mix-blend-mode: multiply;
+}
+.ss-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 666px;
+  height: 338px;
+  object-fit: cover;
+}
+.about-us3 {
+  position: absolute;
+  top: 26px;
+  left: calc(50% - 52px);
+  text-transform: capitalize;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.iphone-11-pro-max-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(255, 255, 255, 0.4),
+    rgba(255, 255, 255, 0)
+  );
+  box-shadow: -5px -5px 250px rgba(255, 255, 255, 0.02) inset;
+  backdrop-filter: blur(42px);
+  width: 204px;
+  height: 80px;
+  overflow: hidden;
+}
+.iphone-11-pro-max-1-wrapper {
+  position: absolute;
+  top: 411px;
+  left: 451px;
+  width: 204px;
+  height: 80px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.about-us-child,
+.result1 {
+  position: absolute;
+  top: 93px;
+  left: 1160px;
+  width: 58px;
+  height: 4px;
+}
+.result1 {
+  top: 50px;
+  left: 1263px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 117.16px;
+  height: 55.51px;
+}
+.vector-icon {
+  position: absolute;
+  top: 418.91px;
+  left: 1251.12px;
+  width: 570.18px;
+  height: 462.8px;
+  mix-blend-mode: soft-light;
+}
+.man-sitting-icon {
+  position: absolute;
+  top: 305px;
+  left: 1263px;
+  width: 630px;
+  height: 664px;
+  object-fit: cover;
+}
+.about-us1 {
+  position: relative;
+  background: linear-gradient(
+      155.96deg,
+      #00adef,
+      rgba(0, 147, 233, 0.61) 47.76%,
+      rgba(0, 173, 239, 0.1)
+    ),
+    linear-gradient(
+      155.96deg,
+      rgba(0, 233, 219, 0.61),
+      rgba(77, 182, 205, 0.9) 47.76%,
+      rgba(128, 208, 199, 0.9)
+    ),
+    linear-gradient(
+      155.96deg,
+      #00adef,
+      rgba(77, 182, 205, 0.9) 47.76%,
+      rgba(128, 208, 199, 0.9)
+    );
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

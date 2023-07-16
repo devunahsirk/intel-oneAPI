@@ -1,0 +1,217 @@
+.image-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 960px;
+  object-fit: cover;
+  display: none;
+}
+button.result3 {
+  color: #090909;
+  padding:1.65em 2.9em;
+  font-size: 18px;
+  border-radius: 0.5em;
+  background: #e8e8e8;
+  border: 1px solid #e8e8e8;
+  transition: all .3s;
+  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+}
+
+button.result3:hover {
+  border: 1px solid white;
+}
+
+button.result3:active {
+  box-shadow: 4px 4px 12px #c5c5c5, -4px -4px 12px #ffffff;
+}
+
+.iphone-11-pro-max-12 {
+  position: absolute;
+  top: 329px;
+  left: 883px;
+  border-radius: var(--br-31xl);
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(255, 255, 255, 0.4),
+    rgba(255, 255, 255, 0)
+  );
+  box-shadow: -5px -5px 250px rgba(255, 255, 255, 0.02) inset;
+  backdrop-filter: blur(42px);
+  width: 154px;
+  height: 80px;
+  overflow: hidden;
+  font-family: var(--font-roboto);
+}
+.about-us4,
+.home2,
+.input-data4 {
+  position: absolute;
+  top: 123px;
+  left: 1407px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 117.16px;
+  height: 55.51px;
+}
+.about-us4,
+.home2 {
+  left: 1141px;
+}
+.home2 {
+  left: 1011px;
+}
+.background2,
+.knob-base2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.background2 {
+  border-radius: var(--br-13xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: -1px -1px 0#fff inset, -2px -2px 2px #b8cce0 inset,
+    -1px -1px 0#fff, -2px -2px 2px #b8cce0;
+  display: none;
+}
+.knob-base2 {
+  margin: 0 !important;
+  z-index: 0;
+}
+.icon-inner {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.icon2,
+.knob-elevation2 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.icon2 {
+  display: none;
+}
+.knob-elevation2 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px #c9d9e8, -8px -8px 16px #fff;
+  display: flex;
+  padding: var(--padding-5xl);
+  z-index: 1;
+}
+.neumorphism-button2 {
+  position: absolute;
+  top: 101px;
+  left: 961px;
+  width: 620px;
+  height: 112px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-5xl) var(--padding-5xl)
+    var(--padding-3xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  mix-blend-mode: multiply;
+}
+.ss-1-icon2 {
+  position: absolute;
+  top: -15px;
+  left: 11px;
+  width: 666px;
+  height: 338px;
+  object-fit: cover;
+}
+.frame-child,
+.result4 {
+  position: absolute;
+  top: 166px;
+  left: 1304px;
+  width: 58px;
+  height: 4px;
+}
+.result4 {
+  top: 123px;
+  left: 1274px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 117.16px;
+  height: 55.51px;
+}
+.input-data-group {
+  position: absolute;
+  top: -73px;
+  left: -11px;
+  width: 1581px;
+  height: 338px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.we-are-a4 {
+  position: absolute;
+  top: 575px;
+  left: 638px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  width: 644px;
+  height: 194px;
+  mix-blend-mode: normal;
+}
+.result2 {
+  position: relative;
+  background: linear-gradient(
+      155.96deg,
+      #00adef,
+      rgba(0, 147, 233, 0.61) 47.76%,
+      rgba(0, 173, 239, 0.1)
+    ),
+    linear-gradient(
+      155.96deg,
+      rgba(0, 233, 219, 0.61),
+      rgba(77, 182, 205, 0.9) 47.76%,
+      rgba(128, 208, 199, 0.9)
+    ),
+    linear-gradient(
+      155.96deg,
+      #00adef,
+      rgba(77, 182, 205, 0.9) 47.76%,
+      rgba(128, 208, 199, 0.9)
+    );
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.imageinput-icon,
+.vector-icon {
+  position: absolute;
+  top: 289px;
+  left: 1259px;
+  width: 616.49px;
+  height: 597.2px;
+}
+.imageinput-icon {
+  left: 1287px;
+  width: 620px;
+  height: 597px;
+  object-fit: cover;
+}
+.resultbox {
+  border: 2px solid #e8e8e8;
+  border-radius: 10px;
+  padding: 10px;
+}

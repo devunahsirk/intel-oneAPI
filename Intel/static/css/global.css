@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-aliceblue: #f1f5f9;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-3xl: 22px;
+  --padding-5xl: 24px;
+
+  /* border radiuses */
+  --br-31xl: 50px;
+  --br-5xl: 24px;
+  --br-13xl: 32px;
+}
